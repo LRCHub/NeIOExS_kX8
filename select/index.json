@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Okay, Goodbye",
+  "base_artist": "Fujii Kaze",
+  "createdAt": "2025-12-23T11:39:46.645138Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Okay, Goodbye",
+      "artist": "Fujii Kaze",
+      "has_synced": true,
+      "path": "select/01_Okay,_Goodbye_Fujii_Kaze.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Okay, Goodbye",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_01_Okay,_Goodbye_藤井_風.txt"
+    }
+  ]
+}
